@@ -1,10 +1,4 @@
-/* /*  your css code here. If applicable */
-
- /* label:nth-child(even) input{
-	 color: red;
+.radio-list label .input.red-color {
+  
+  color: red; 
 }
-
-.input:nth-child(even) {
-            color: red;
-        } */
- /* */
